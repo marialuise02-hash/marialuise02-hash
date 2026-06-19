@@ -28,7 +28,7 @@ Busco minha primeira oportunidade como Traineer ou Desenvolvedora Júnior, onde 
 ## 📬 Vamos nos conectar e fazer networking?
 
 <a href="https://www.linkedin.com/in/maria-lu%C3%ADse-das-virgens-menezes-2698b2301/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="Linkedin">
 </a>
 
 <a href="https://www.instagram.com/_marialvm" target="_blank">
