@@ -1,4 +1,4 @@
-# Olá, mundo! Eu sou a Maria Luíse 👋
+# Olá, mundo! Eu sou Maria Luíse 👋
 
 Estudante de Sistemas de Informação na Universidade Federal de Sergipe (UFS) — curso conquistado com muito orgulho, com uma das maiores notas de corte da instituição.
 
@@ -10,9 +10,7 @@ Busco minha primeira oportunidade como Traineer ou Desenvolvedora Júnior, onde 
 
 ## 🛠️ Tecnologias e Ferramentas
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 
 * **🌱 Foco atual:** Lógica estruturada de programação e automação com IA em Python.
 * **🎯 Próximos objetivos:** Manipulação de dados, banco de dados relacionais e Programação Orientada a Objetos (POO).
@@ -38,4 +36,4 @@ Busco minha primeira oportunidade como Traineer ou Desenvolvedora Júnior, onde 
 </a>
 
 📧 **Contato:** marialuise02@gmail.com
-💬 **Discord:** mallu.vm
+>💬 **Discord:** mallu.vm
