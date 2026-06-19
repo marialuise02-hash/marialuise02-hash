@@ -35,5 +35,5 @@ Busco minha primeira oportunidade como Traineer ou Desenvolvedora Júnior, onde 
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
 </a>
 
-📧 **Contato:** marialuise02@gmail.com
+>📧 **Contato:** marialuise02@gmail.com
 >💬 **Discord:** mallu.vm
