@@ -17,9 +17,9 @@ Busco minha primeira oportunidade como Traineer ou Desenvolvedora Júnior, onde 
 
 ---
 
-## 🚀 Meus Projetos em Destaque
+## 🚀 Meu Portifólio
 
-* **[🐍 Guia de Estudos: Python Inteligente]([(https://github.com/marialuise02-hash/Projetos/blob/main/Como%20programar%20em%20Python%3F%20to%20README.md)])** - Minha documentação pessoal de estudos, onde organizo e reviso tudo o que aprendo nas minhas aulas diárias.
+* **[📓 Repositório "Projetos": ](https://github.com/marialuise02-hash/Projetos/blob/main/Como%20programar%20em%20Python%3F%20to%20README.md)** - Meus projetos de programação desde o início da minha jornada.
 
 *(Em breve, meus novos projetos em terminal CLI de Automação de Dados e o Jogo da Forca estarão listados aqui! 💻)*
 
