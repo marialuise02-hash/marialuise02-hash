@@ -1,16 +1,41 @@
-## Hi there 👋
+# Olá, mundo! Eu sou a Maria Luíse 👋
 
-<!--
-**marialuise02-hash/marialuise02-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Sistemas de Informação na Universidade Federal de Sergipe (UFS) — curso conquistado com muito orgulho, com uma das maiores notas de corte da instituição.
 
-Here are some ideas to get you started:
+Acredito que a tecnologia se torna ainda mais poderosa quando unida à sensibilidade humana. Ao longo da minha jornada acadêmica e pessoal, desenvolvi um sólido arsenal de competências interpessoais, inteligência emocional e liderança participando ativamente de seminários, projetos de equipe e trabalhos voluntários.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Busco minha primeira oportunidade como Traineer ou Desenvolvedora Júnior, onde eu possa somar com minha organização, responsabilidade e paixão por aprender, ao mesmo tempo em que aprimoro minhas habilidades técnicas ao lado de grandes profissionais. 
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+
+* **🌱 Foco atual:** Lógica estruturada de programação e automação com IA em Python.
+* **🎯 Próximos objetivos:** Manipulação de dados, banco de dados relacionais e Programação Orientada a Objetos (POO).
+
+---
+
+## 🚀 Meus Projetos em Destaque
+
+* **[🐍 Guia de Estudos: Python Inteligente]([(https://github.com/marialuise02-hash/Projetos/blob/main/Como%20programar%20em%20Python%3F%20to%20README.md)])** - Minha documentação pessoal de estudos, onde organizo e reviso tudo o que aprendo nas minhas aulas diárias.
+
+*(Em breve, meus novos projetos em terminal CLI de Automação de Dados e o Jogo da Forca estarão listados aqui! 💻)*
+
+---
+
+## 📬 Vamos nos conectar e fazer networking?
+
+<a href="https://www.linkedin.com/in/maria-lu%C3%ADse-das-virgens-menezes-2698b2301/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<a href="https://www.instagram.com/_marialvm" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>
+
+📧 **Contato:** marialuise02@gmail.com
+💬 **Discord:** mallu.vm
