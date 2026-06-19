@@ -10,7 +10,7 @@ Busco minha primeira oportunidade como Traineer ou Desenvolvedora Júnior, onde 
 
 ## 🛠️ Tecnologias e Ferramentas
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code"> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code"> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
 
 * **🌱 Foco atual:** Lógica estruturada de programação e automação com IA em Python.
 * **🎯 Próximos objetivos:** Manipulação de dados, banco de dados relacionais e Programação Orientada a Objetos (POO).
@@ -28,11 +28,11 @@ Busco minha primeira oportunidade como Traineer ou Desenvolvedora Júnior, onde 
 ## 📬 Vamos nos conectar e fazer networking?
 
 <a href="https://www.linkedin.com/in/maria-lu%C3%ADse-das-virgens-menezes-2698b2301/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
 <a href="https://www.instagram.com/_marialvm" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram">
 </a>
 
 
